@@ -1,4 +1,20 @@
-In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
+***Nxt Trendz - Cart Features***
+
+Click Here For Demo:- https://nxtTrendz572.ccbp.tech
+
+- Prime User credentials
+
+  ```text
+   username: rahul
+   password: rahul@2021
+  ```
+
+- Non-Prime User credentials
+
+  ```text
+   username: raja
+   password: raja@2021
+  ```
 
 ### Refer to the video below:
 
@@ -137,20 +153,6 @@ Use these files to complete the implementation:
 - `AiFillCloseCircle` icon from react-icons should be used for **remove** button in cartItem
 - The Cart Item should consist of an HTML button element with data-testid attribute values as **remove**
 - The product image in **Cart Item** Route should have the alt as `title` of the product
-
-- Prime User credentials
-
-  ```text
-   username: rahul
-   password: rahul@2021
-  ```
-
-- Non-Prime User credentials
-
-  ```text
-   username: raja
-   password: raja@2021
-  ```
 
 </details>
 
